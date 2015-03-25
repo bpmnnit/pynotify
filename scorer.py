@@ -8,7 +8,7 @@ def sendmessage(title, message):
     notice = pynotify.Notification(title, message)
     notice.show()
     return
-url = "http://localhost/livescores.xml"
+url = "http://static.cricinfo.com/rss/livescores.xml"
 while True:
     r = requests.get(url)
     while r.status_code is not 200:
