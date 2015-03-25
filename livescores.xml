@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+	<title>Cricinfo Live Scores</title>
+	<ttl>2</ttl>
+	<link>http://www.cricinfo.com</link>
+	<description>Latest scores from Cricinfo</description>
+	<copyright>(c)Cricinfo</copyright>
+	<language>en-gb</language>
+	<pubDate>Tue, 24 Mar 2015 11:20:01 +0000</pubDate>
+	<item> 
+		<title>Victoria 381/10  v Western Australia 421/10 &amp;  240/2 *</title> 
+		<link>Final: Victoria v Western Australia at Hobart, Mar 21-25, 2015 | Cricket Scorecard | ESPN Cricinfo </link> 
+		<description>Victoria 381/10  v Western Australia 421/10 &amp;  240/2 *</description>  
+		<guid>" id="qlink_su4g90uapc" class="qlink qtext_editor_link_href">" id="qlink_a73lq3dywq" class="qlink qtext_editor_link_href">http://www.cricinfo.com/ci/engine/match/754941.html</guid> 
+	</item> 
+	<item> 
+		<title>Marylebone Cricket Club 221/10 &amp;  44/1 * v Yorkshire 372/10 </title> 
+		<link>Marylebone Cricket Club v Yorkshire at Abu Dhabi, Mar 22-24, 2015 | Cricket Scorecard | ESPN Cricinfo </link> 
+		<description>Marylebone Cricket Club 221/10 &amp;  44/1 * v Yorkshire 372/10 </description>  
+		<guid>" id="qlink_a8q6k534qh" class="qlink qtext_editor_link_href">" id="qlink_y19px3sad4" class="qlink qtext_editor_link_href">http://www.cricinfo.com/ci/engine/match/804121.html</guid> 
+	</item> 
+	<item> 
+		<title>New Zealand 299/6 * v South Africa 281/5 </title> 
+		<link>1st Semi-Final: New Zealand v South Africa at Auckland, Mar 24, 2015 | Cricket Scorecard | ESPN Cricinfo </link> 
+		<description>New Zealand 299/6 * v South Africa 281/5 </description>  
+		<guid>" id="qlink_fsgzhdha8s" class="qlink qtext_editor_link_href">" id="qlink_2stmcxe78a" class="qlink qtext_editor_link_href">http://www.cricinfo.com/ci/engine/match/656491.html</guid> 
+	</item> 
+</channel>
+</rss>
